@@ -1,0 +1,620 @@
+{
+  "tempalias1": {
+    "name": "hub/aaartist/steve-jobs:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias2": {
+    "name": "hub/aadesh89/homoeopath:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias3": {
+    "name": "hub/andrew/artist-advisor:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias4": {
+    "name": "hub/andrew/financial-analyst:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias5": {
+    "name": "hub/bagellama/d&d-dungeon-master-assistant:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias6": {
+    "name": "hub/bitbinge/lawx:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias7": {
+    "name": "hub/c00100011/microsoft-phi-2-dolphin:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias8": {
+    "name": "hub/chmurli/sarah-lovely-caring-girlfriend:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias9": {
+    "name": "hub/claragreen/eulabot:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias10": {
+    "name": "hub/crixodia/computer-science-blog-editor:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias11": {
+    "name": "hub/darkstorm2150/90s-CPP-Programmer:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias12": {
+    "name": "hub/darkstorm2150/Data-Archivist:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias13": {
+    "name": "hub/darkstorm2150/Data-Hoarder:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias14": {
+    "name": "hub/darkstorm2150/Data-Scientist:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias15": {
+    "name": "hub/darkstorm2150/OllamaCreate:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias16": {
+    "name": "hub/darkstorm2150/Psychologist:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias17": {
+    "name": "hub/darkstorm2150/attorney:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias18": {
+    "name": "hub/doctor/cardiologist:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias19": {
+    "name": "hub/doctor/dermatologist:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias20": {
+    "name": "hub/doctor/gastroenterologist:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias21": {
+    "name": "hub/doctor/neurologist:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias22": {
+    "name": "hub/doctor/psychologist:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias23": {
+    "name": "hub/dotslashgabut/genaiprompt:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias24": {
+    "name": "hub/dubmaster/who-am-i-game:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias25": {
+    "name": "hub/elonmusk/contract-analyzer-:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias26": {
+    "name": "hub/emclinux/artteacher:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias27": {
+    "name": "hub/fabienpichon/btc_trader_one:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias28": {
+    "name": "hub/jama/secondary-school-teacher:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias29": {
+    "name": "hub/javi/librarian:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias30": {
+    "name": "hub/kamjin/english-teacher:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias31": {
+    "name": "hub/kron/python-coder:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias32": {
+    "name": "hub/krsmes/based:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias33": {
+    "name": "hub/louisguitton/dejargonizer:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias34": {
+    "name": "hub/neuromorph1c/bakllava:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias35": {
+    "name": "hub/rlust/code-companion:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias36": {
+    "name": "hub/samm/code-companion:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias37": {
+    "name": "hub/stroben/websitescreenshot_to_text:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias38": {
+    "name": "hub/theory/jungian-dream-interpreter:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias39": {
+    "name": "hub/threadabort/expert-old-man-dave:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias40": {
+    "name": "hub/uaquax/anonymous-chat:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+ 
+
+ "tempalias41": {
+    "name": "hub/uaquax/chatgpt:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias42": {
+    "name": "hub/uaquax/enhancer:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias43": {
+    "name": "hub/uaquax/moly:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias44": {
+    "name": "hub/uxoxo/ux-assistant:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias45": {
+    "name": "hub/vpb11/Automated OnlyFans Sales BOT V1.0.0:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias46": {
+    "name": "hub/wygocuxyco/trash_talker:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias47": {
+    "name": "hub/accountant:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias48": {
+    "name": "hub/advertiser:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias49": {
+    "name": "hub/ai-assisted-doctor:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias50": {
+    "name": "hub/ai-writing-tutor:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias51": {
+    "name": "hub/automobile-mechanic:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias52": {
+    "name": "hub/based-dolphin-mixtral:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias53": {
+    "name": "hub/career-counselor:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias54": {
+    "name": "hub/chef:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias55": {
+    "name": "hub/commentariat:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias56": {
+    "name": "hub/composer:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias57": {
+    "name": "hub/cyber-security-specialist:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias58": {
+    "name": "hub/dad:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias59": {
+    "name": "hub/debate-coach:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias60": {
+    "name": "hub/debater:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias61": {
+    "name": "hub/dentist:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias62": {
+    "name": "hub/devops:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias63": {
+    "name": "hub/doctor:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias64": {
+    "name": "hub/elon-musk:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias65": {
+    "name": "hub/english-translator-and-improver:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias66": {
+    "name": "hub/etymologist:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias67": {
+    "name": "hub/excel-sheet:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias68": {
+    "name": "hub/football-commentator:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias69": {
+    "name": "hub/jeff-bezos:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias70": {
+    "name": "hub/life-coach:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias71": {
+    "name": "hub/linux-terminal:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias72": {
+    "name": "hub/magician:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias73": {
+    "name": "hub/mario:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias74": {
+    "name": "hub/math-teacher:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias75": {
+    "name": "hub/mental-health-adviser:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias76": {
+    "name": "hub/midjourney-prompt-generator:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias77": {
+    "name": "hub/motivational-coach:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias78": {
+    "name": "hub/novelist:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias79": {
+    "name": "hub/personal-trainer:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias80": {
+    "name": "hub/pet-behaviorist:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias81": {
+    "name": "hub/philosopher:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias82": {
+    "name": "hub/philosophy-teacher:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias83": {
+    "name": "hub/plagiarism-checker:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias84": {
+    "name": "hub/poet:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias85": {
+   
+
+ "name": "hub/rapper:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias86": {
+    "name": "hub/recipe-maker:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias87": {
+    "name": "hub/recruiter:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias88": {
+    "name": "hub/relationship-coach:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias89": {
+    "name": "hub/screenwriter:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias90": {
+    "name": "hub/stand-up-comedian:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias91": {
+    "name": "hub/storyteller:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias92": {
+    "name": "hub/ten-tweets:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias93": {
+    "name": "hub/travel-guide:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias94": {
+    "name": "hub/uxui-developer:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias95": {
+    "name": "hub/web-design-consultant:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias96": {
+    "name": "hub/william-shakespeare:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias97": {
+    "name": "bakllava:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias98": {
+    "name": "codellama:7b",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias99": {
+    "name": "dolphin-2_6-phi-2.Q6_K.gguf:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias100": {
+    "name": "dolphin-mistral:7b-v2.6-dpo-laser-q8_0",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias101": {
+    "name": "dolphin-mistral:7b-v2.6-fp16",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias102": {
+    "name": "dolphin-mistral:7b-v2.6-q4_K_M",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias103": {
+    "name": "dolphin-mistral:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias104": {
+    "name": "dolphin-mixtral:8x7b-v2.6-q3_K_L",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias105": {
+    "name": "dolphin-mixtral:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias106": {
+    "name": "dolphin-phi:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias107": {
+    "name": "emily---a-friendly-programming-assistant:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias108": {
+    "name": "english-to-chinese---翻译专家:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias109": {
+    "name": "gemma:2b",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias110": {
+    "name": "gemma:7b",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias111": {
+    "name": "llama2:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias112": {
+    "name": "llava:13b",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias113": {
+    "name": "mc-crafty-companion:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias114": {
+    "name": "mechanic---your-car-guy:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias115": {
+    "name": "medllama2:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias116": {
+    "name": "mistral:7b-instruct-v0.2-fp16",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias117": {
+    "name": "mistral:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias118": {
+    "name": "nous-hermes:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias119": {
+    "name": "openchat:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias120": {
+    "name": "openhermes:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias121": {
+    "name": "openhermes2.5-mistral:7b-q4_K_M",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias122": {
+    "name": "orca-mini:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias123": {
+    "name": "phi:latest",
+    "Latency": "",
+    "Maybe delete": ""
+ 
