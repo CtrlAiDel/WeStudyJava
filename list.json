@@ -1,765 +1,975 @@
 {
   "tempalias1": {
-    "name": "hub/aaartist/steve-jobs:latest",
+    "id": 1,
+    "name": "hub/academic-researcher:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias2": {
-    "name": "hub/aadesh89/homoeopath:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias3": {
-    "name": "hub/andrew/artist-advisor:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias4": {
-    "name": "hub/andrew/financial-analyst:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias5": {
-    "name": "hub/bagellama/d&d-dungeon-master-assistant:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias6": {
-    "name": "hub/bitbinge/lawx:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias7": {
-    "name": "hub/c00100011/microsoft-phi-2-dolphin:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias8": {
-    "name": "hub/chmurli/sarah-lovely-caring-girlfriend:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias9": {
-    "name": "hub/claragreen/eulabot:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias10": {
-    "name": "hub/crixodia/computer-science-blog-editor:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias11": {
-    "name": "hub/darkstorm2150/90s-CPP-Programmer:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias12": {
-    "name": "hub/darkstorm2150/Data-Archivist:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias13": {
-    "name": "hub/darkstorm2150/Data-Hoarder:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias14": {
-    "name": "hub/darkstorm2150/Data-Scientist:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias15": {
-    "name": "hub/darkstorm2150/OllamaCreate:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias16": {
-    "name": "hub/darkstorm2150/Psychologist:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias17": {
-    "name": "hub/darkstorm2150/attorney:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias18": {
-    "name": "hub/doctor/cardiologist:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias19": {
-    "name": "hub/doctor/dermatologist:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias20": {
-    "name": "hub/doctor/gastroenterologist:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias21": {
-    "name": "hub/doctor/neurologist:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias22": {
-    "name": "hub/doctor/psychologist:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias23": {
-    "name": "hub/dotslashgabut/genaiprompt:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias24": {
-    "name": "hub/dubmaster/who-am-i-game:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias25": {
-    "name": "hub/elonmusk/contract-analyzer-:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias26": {
-    "name": "hub/emclinux/artteacher:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias27": {
-    "name": "hub/fabienpichon/btc_trader_one:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias28": {
-    "name": "hub/jama/secondary-school-teacher:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias29": {
-    "name": "hub/javi/librarian:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias30": {
-    "name": "hub/kamjin/english-teacher:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias31": {
-    "name": "hub/kron/python-coder:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias32": {
-    "name": "hub/krsmes/based:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias33": {
-    "name": "hub/louisguitton/dejargonizer:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias34": {
-    "name": "hub/neuromorph1c/bakllava:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias35": {
-    "name": "hub/rlust/code-companion:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias36": {
-    "name": "hub/samm/code-companion:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias37": {
-    "name": "hub/stroben/websitescreenshot_to_text:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias38": {
-    "name": "hub/theory/jungian-dream-interpreter:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias39": {
-    "name": "hub/threadabort/expert-old-man-dave:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias40": {
-    "name": "hub/uaquax/anonymous-chat:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
- 
-
- "tempalias41": {
-    "name": "hub/uaquax/chatgpt:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias42": {
-    "name": "hub/uaquax/enhancer:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias43": {
-    "name": "hub/uaquax/moly:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias44": {
-    "name": "hub/uxoxo/ux-assistant:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias45": {
-    "name": "hub/vpb11/Automated OnlyFans Sales BOT V1.0.0:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias46": {
-    "name": "hub/wygocuxyco/trash_talker:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias47": {
+    "id": 2,
     "name": "hub/accountant:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias3": {
+    "id": 3,
+    "name": "hub/acoustic-engineer:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias4": {
+    "id": 4,
+    "name": "hub/advertising-manager:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias5": {
+    "id": 5,
+    "name": "hub/affiliate-marketer:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias6": {
+    "id": 6,
+    "name": "hub/ai-business-analyst:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias7": {
+    "id": 7,
+    "name": "hub/ai-data-scientist:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias8": {
+    "id": 8,
+    "name": "hub/ai-developer:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias9": {
+    "id": 9,
+    "name": "hub/ai-engineer:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias10": {
+    "id": 10,
+    "name": "hub/ai-entrepreneur:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias11": {
+    "id": 11,
+    "name": "hub/ai-ethicist:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias12": {
+    "id": 12,
+    "name": "hub/ai-expert:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias13": {
+    "id": 13,
+    "name": "hub/ai-investor:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias14": {
+    "id": 14,
+    "name": "hub/ai-lawyer:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias15": {
+    "id": 15,
+    "name": "hub/ai-marketer:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias16": {
+    "id": 16,
+    "name": "hub/ai-medical-specialist:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias17": {
+    "id": 17,
+    "name": "hub/ai-researcher:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias18": {
+    "id": 18,
+    "name": "hub/ai-scientist:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias19": {
+    "id": 19,
+    "name": "hub/ai-specialist:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias20": {
+    "id": 20,
+    "name": "hub/ai-strategist:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias21": {
+    "id": 21,
+    "name": "hub/ai-trader:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias22": {
+    "id": 22,
+    "name": "hub/ai-tutor:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias23": {
+    "id": 23,
+    "name": "hub/aircraft-engineer:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias24": {
+    "id": 24,
+    "name": "hub/airline-manager:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias25": {
+    "id": 25,
+    "name": "hub/airline-pilot:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias26": {
+    "id": 26,
+    "name": "hub/android-developer:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias27": {
+    "id": 27,
+    "name": "hub/app-developer:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias28": {
+    "id": 28,
+    "name": "hub/apparel-designer:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias29": {
+    "id": 29,
+    "name": "hub/arbitrage-trader:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias30": {
+    "id": 30,
+    "name": "hub/arborist:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias31": {
+    "id": 31,
+    "name": "hub/arcane-researcher:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias32": {
+    "id": 32,
+    "name": "hub/archaeologist:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias33": {
+    "id": 33,
+    "name": "hub/architect:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias34": {
+    "id": 34,
+    "name": "hub/artist:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias35": {
+    "id": 35,
+    "name": "hub/asset-manager:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias36": {
+    "id": 36,
+    "name": "hub/astronaut:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias37": {
+    "id": 37,
+    "name": "hub/astronomer:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias38": {
+    "id": 38,
+    "name": "hub/athlete:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias39": {
+    "id": 39,
+    "name": "hub/atmospheric-scientist:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias40": {
+    "id": 40,
+    "name": "hub/audiologist:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias41": {
+    "id": 41,
+    "name": "hub/audio-engineer:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias42": {
+    "id": 42,
+    "name": "hub/authenticator:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias43": {
+    "id": 43,
+    "name": "hub/automotive-engineer:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias44": {
+    "id": 44,
+    "name": "hub/aviation-engineer:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias45": {
+    "id": 45,
+    "name": "hub/back-end-developer:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias46": {
+    "id": 46,
+    "name": "hub/baker:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
+  },
+  "tempalias47": {
+    "id": 47,
+    "name": "hub/bank-teller:latest",
+    "Latency": "",
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias48": {
-    "name": "hub/advertiser:latest",
+    "id": 48,
+    "name": "hub/banker:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias49": {
-    "name": "hub/ai-assisted-doctor:latest",
+    "id": 49,
+    "name": "hub/barista:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias50": {
-    "name": "hub/ai-writing-tutor:latest",
+    "id": 50,
+    "name": "hub/bartender:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias51": {
-    "name": "hub/automobile-mechanic:latest",
+    "id": 51,
+    "name": "hub/biologist:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias52": {
-    "name": "hub/based-dolphin-mixtral:latest",
+    "id": 52,
+    "name": "hub/bitcoin-analyst:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias53": {
-    "name": "hub/career-counselor:latest",
+    "id": 53,
+    "name": "hub/bitcoin-trader:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias54": {
-    "name": "hub/chef:latest",
+    "id": 54,
+    "name": "hub/blockchain-analyst:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias55": {
-    "name": "hub/commentariat:latest",
+    "id": 55,
+    "name": "hub/blockchain-developer:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias56": {
-    "name": "hub/composer:latest",
+    "id": 56,
+    "name": "hub/blogger:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias57": {
-    "name": "hub/cyber-security-specialist:latest",
+    "id": 57,
+    "name": "hub/bot-developer:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias58": {
-    "name": "hub/dad:latest",
+    "id": 58,
+    "name": "hub/botanist:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias59": {
-    "name": "hub/debate-coach:latest",
+    "id": 59,
+    "name": "hub/brand-strategist:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias60": {
-    "name": "hub/debater:latest",
+    "id": 60,
+    "name": "hub/business-analyst:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias61": {
-    "name": "hub/dentist:latest",
+    "id": 61,
+    "name": "hub/business-consultant:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias62": {
-    "name": "hub/devops:latest",
+    "id": 62,
+    "name": "hub/business-development-manager:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias63": {
-    "name": "hub/doctor:latest",
+    "id": 63,
+    "name": "hub/business-owner:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias64": {
-    "name": "hub/elon-musk:latest",
+    "id": 64,
+    "name": "hub/business-strategist:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias65": {
-    "name": "hub/english-translator-and-improver:latest",
+    "id": 65,
+    "name": "hub/businessman:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias66": {
-    "name": "hub/etymologist:latest",
+    "id": 66,
+    "name": "hub/businesswoman:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias67": {
-    "name": "hub/excel-sheet:latest",
+    "id": 67,
+    "name": "hub/butcher:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias68": {
-    "name": "hub/football-commentator:latest",
+    "id": 68,
+    "name": "hub/buyer:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias69": {
-    "name": "hub/jeff-bezos:latest",
+    "id": 69,
+    "name": "hub/c-sharp-developer:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias70": {
-    "name": "hub/life-coach:latest",
+    "id": 70,
+    "name": "hub/cad-designer:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias71": {
-    "name": "hub/linux-terminal:latest",
+    "id": 71,
+    "name": "hub/call-center-agent:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias72": {
-    "name": "hub/magician:latest",
+    "id": 72,
+    "name": "hub/call-center-manager:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias73": {
-    "name": "hub/mario:latest",
+    "id": 73,
+    "name": "hub/calligrapher:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias74": {
-    "name": "hub/math-teacher:latest",
+    "id": 74,
+    "name": "hub/cameraman:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias75": {
-    "name": "hub/mental-health-adviser:latest",
+    "id": 75,
+    "name": "hub/car-designer:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias76": {
-    "name": "hub/midjourney-prompt-generator:latest",
+    "id": 76,
+    "name": "hub/car-salesman:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias77": {
-    "name": "hub/motivational-coach:latest",
+    "id": 77,
+    "name": "hub/cardiologist:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias78": {
-    "name": "hub/novelist:latest",
+    "id": 78,
+    "name": "hub/career-advisor:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias79": {
-    "name": "hub/personal-trainer:latest",
+    "id": 79,
+    "name": "hub/caregiver:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias80": {
-    "name": "hub/pet-behaviorist:latest",
+    "id": 80,
+    "name": "hub/carpenter:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias81": {
-    "name": "hub/philosopher:latest",
+    "id": 81,
+    "name": "hub/carpet-cleaner:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias82": {
-    "name": "hub/philosophy-teacher:latest",
+    "id": 82,
+    "name": "hub/cartoonist:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias83": {
-    "name": "hub/plagiarism-checker:latest",
+    "id": 83,
+    "name": "hub/cashier:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias84": {
-    "name": "hub/poet:latest",
+    "id": 84,
+    "name": "hub/cell-biologist:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias85": {
-   
-
- "name": "hub/rapper:latest",
+    "id": 85,
+    "name": "hub/cellist:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias86": {
-    "name": "hub/recipe-maker:latest",
+    "id": 86,
+    "name": "hub/ceramic-artist:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias87": {
-    "name": "hub/recruiter:latest",
+    "id": 87,
+    "name": "hub/ceo:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias88": {
-    "name": "hub/relationship-coach:latest",
+    "id": 88,
+    "name": "hub/cfo:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias89": {
-    "name": "hub/screenwriter:latest",
+    "id": 89,
+    "name": "hub/chef:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias90": {
-    "name": "hub/stand-up-comedian:latest",
+    "id": 90,
+    "name": "hub/chemical-engineer:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias91": {
-    "name": "hub/storyteller:latest",
+    "id": 91,
+    "name": "hub/chemist:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias92": {
-    "name": "hub/ten-tweets:latest",
+    "id": 92,
+    "name": "hub/chief-technology-officer:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias93": {
-    "name": "hub/travel-guide:latest",
+    "id": 93,
+    "name": "hub/childrens-book-author:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias94": {
-    "name": "hub/uxui-developer:latest",
+    "id": 94,
+    "name": "hub/chiropractor:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias95": {
-    "name": "hub/web-design-consultant:latest",
+    "id": 95,
+    "name": "hub/cinematographer:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias96": {
-    "name": "hub/william-shakespeare:latest",
+    "id": 96,
+    "name": "hub/civil-engineer:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias97": {
-    "name": "bakllava:latest",
+    "id": 97,
+    "name": "hub/claims-adjuster:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias98": {
-    "name": "codellama:7b",
+    "id": 98,
+    "name": "hub/claims-analyst:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias99": {
-    "name": "dolphin-2_6-phi-2.Q6_K.gguf:latest",
+    "id": 99,
+    "name": "hub/claims-investigator:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias100": {
-    "name": "dolphin-mistral:7b-v2.6-dpo-laser-q8_0",
+    "id": 100,
+    "name": "hub/claims-specialist:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias101": {
-    "name": "dolphin-mistral:7b-v2.6-fp16",
+    "id": 101,
+    "name": "hub/cleaner:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias102": {
-    "name": "dolphin-mistral:7b-v2.6-q4_K_M",
+    "id": 102,
+    "name": "hub/clockmaker:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias103": {
-    "name": "dolphin-mistral:latest",
+    "id": 103,
+    "name": "hub/cloud-engineer:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias104": {
-    "name": "dolphin-mixtral:8x7b-v2.6-q3_K_L",
+    "id": 104,
+    "name": "hub/cloud-architect:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias105": {
-    "name": "dolphin-mixtral:latest",
+    "id": 105,
+    "name": "hub/cloud-computing-consultant:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias106": {
-    "name": "dolphin-phi:latest",
+    "id": 106,
+    "name": "hub/cloud-solutions-architect:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias107": {
-    "name": "emily---a-friendly-programming-assistant:latest",
+    "id": 107,
+    "name": "hub/cloud-support-engineer:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias108": {
-    "name": "english-to-chinese---翻译专家:latest",
+    "id": 108,
+    "name": "hub/club-owner:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias109": {
-    "name": "gemma:2b",
+    "id": 109,
+    "name": "hub/coach:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias110": {
-    "name": "gemma:7b",
+    "id": 110,
+    "name": "hub/comedian:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias111": {
-    "name": "llama2:latest",
+    "id": 111,
+    "name": "hub/communication-skills-coach:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias112": {
-    "name": "llava:13b",
+    "id": 112,
+    "name": "hub/community-manager:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias113": {
-    "name": "mc-crafty-companion:latest",
+    "id": 113,
+    "name": "hub/compensation-analyst:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias114": {
-    "name": "mechanic---your-car-guy:latest",
+    "id": 114,
+    "name": "hub/competitive-gamer:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias115": {
-    "name": "medllama2:latest",
+    "id": 115,
+    "name": "hub/compliance-analyst:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias116": {
-    "name": "mistral:7b-instruct-v0.2-fp16",
+    "id": 116,
+    "name": "hub/computer-engineer:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias117": {
-    "name": "mistral:latest",
+    "id": 117,
+    "name": "hub/computer-hardware-engineer:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias118": {
-    "name": "nous-hermes:latest",
+    "id": 118,
+    "name": "hub/computer-programmer:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias119": {
-    "name": "openchat:latest",
+    "id": 119,
+    "name": "hub/computer-scientist:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias120": {
-    "name": "openhermes:latest",
+    "id": 120,
+    "name": "hub/computer-systems-analyst:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias121": {
-    "name": "openhermes2.5-mistral:7b-q4_K_M",
+    "id": 121,
+    "name": "hub/concierge:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias122": {
-    "name": "orca-mini:latest",
+    "id": 122,
+    "name": "hub/construction-engineer:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias123": {
-    "name": "phi:latest",
+    "id": 123,
+    "name": "hub/construction-manager:latest",
     "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias111": {
-    "name": "llama2:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias112": {
-    "name": "llava:13b",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias113": {
-    "name": "mc-crafty-companion:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias114": {
-    "name": "mechanic---your-car-guy:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias115": {
-    "name": "medllama2:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias116": {
-    "name": "mistral:7b-instruct-v0.2-fp16",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias117": {
-    "name": "mistral:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias118": {
-    "name": "nous-hermes:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias119": {
-    "name": "openchat:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias120": {
-    "name": "openhermes:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias121": {
-    "name": "openhermes2.5-mistral:7b-q4_K_M",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias122": {
-    "name": "orca-mini:latest",
-    "Latency": "",
-    "Maybe delete": ""
-  },
-  "tempalias123": {
-    "name": "phi:latest",
-    "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias124": {
-    "name": "phind-codellama:latest",
+    "id": 124,
+    "name": "hub/content-creator:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias125": {
-    "name": "qwen:14b",
+    "id": 125,
+    "name": "hub/content-marketer:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias126": {
-    "name": "samantha-mistral:latest",
+    "id": 126,
+    "name": "hub/content-strategist:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias127": {
-    "name": "stablelm2:latest",
+    "id": 127,
+    "name": "hub/contractor:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias128": {
-    "name": "stardew-valley-counselor:latest",
+    "id": 128,
+    "name": "hub/control-engineer:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias129": {
-    "name": "starling-lm:latest",
+    "id": 129,
+    "name": "hub/controller:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias130": {
-    "name": "tinyllama:latest",
+    "id": 130,
+    "name": "hub/conversion-optimization-specialist:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias131": {
-    "name": "website-conversion-rate-optimization-(cro)-expert:latest",
+    "id": 131,
+    "name": "hub/copy-editor:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias132": {
-    "name": "whiterabbitneo-13b.Q2_K.gguf:latest",
+    "id": 132,
+    "name": "hub/copywriter:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias133": {
-    "name": "wizard-math:latest",
+    "id": 133,
+    "name": "hub/cosmetologist:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias134": {
-    "name": "wizard-vicuna-uncensored:13b",
+    "id": 134,
+    "name": "hub/cost-engineer:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias135": {
-    "name": "wizard-vicuna-uncensored:7b",
+    "id": 135,
+    "name": "hub/counselor:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias136": {
-    "name": "wizard-vicuna-uncensored:latest",
+    "id": 136,
+    "name": "hub/creative-director:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias137": {
-    "name": "yarn-llama2:latest",
+    "id": 137,
+    "name": "hub/credit-analyst:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias138": {
-    "name": "zephyr:7b-beta-q5_K_M",
+    "id": 138,
+    "name": "hub/cryptographer:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   },
   "tempalias139": {
-    "name": "zephyr:latest",
+    "id": 139,
+    "name": "hub/cybersecurity-analyst:latest",
     "Latency": "",
-    "Maybe delete": ""
+    "Working / To delete": "",
+    "description": ""
   }
+}
