@@ -617,4 +617,149 @@
     "name": "phi:latest",
     "Latency": "",
     "Maybe delete": ""
+  },
+  "tempalias111": {
+    "name": "llama2:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias112": {
+    "name": "llava:13b",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias113": {
+    "name": "mc-crafty-companion:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias114": {
+    "name": "mechanic---your-car-guy:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias115": {
+    "name": "medllama2:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias116": {
+    "name": "mistral:7b-instruct-v0.2-fp16",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias117": {
+    "name": "mistral:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias118": {
+    "name": "nous-hermes:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias119": {
+    "name": "openchat:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias120": {
+    "name": "openhermes:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias121": {
+    "name": "openhermes2.5-mistral:7b-q4_K_M",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias122": {
+    "name": "orca-mini:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias123": {
+    "name": "phi:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias124": {
+    "name": "phind-codellama:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias125": {
+    "name": "qwen:14b",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias126": {
+    "name": "samantha-mistral:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias127": {
+    "name": "stablelm2:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias128": {
+    "name": "stardew-valley-counselor:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias129": {
+    "name": "starling-lm:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias130": {
+    "name": "tinyllama:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias131": {
+    "name": "website-conversion-rate-optimization-(cro)-expert:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias132": {
+    "name": "whiterabbitneo-13b.Q2_K.gguf:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias133": {
+    "name": "wizard-math:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias134": {
+    "name": "wizard-vicuna-uncensored:13b",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias135": {
+    "name": "wizard-vicuna-uncensored:7b",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias136": {
+    "name": "wizard-vicuna-uncensored:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias137": {
+    "name": "yarn-llama2:latest",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias138": {
+    "name": "zephyr:7b-beta-q5_K_M",
+    "Latency": "",
+    "Maybe delete": ""
+  },
+  "tempalias139": {
+    "name": "zephyr:latest",
+    "Latency": "",
+    "Maybe delete": ""
   }
